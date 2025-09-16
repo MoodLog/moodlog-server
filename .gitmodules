@@ -1,3 +1,6 @@
 [submodule "moodlog-shared"]
 	path = moodlog-shared
 	url = git@github.com:MoodLog/moodlog-shared.git
+[submodule "moodlog-env"]
+	path = moodlog-env
+	url = git@github.com:MoodLog/moodlog-env.git
